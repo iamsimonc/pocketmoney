@@ -1,0 +1,5 @@
+{
+  "name": "PocketPiggy: Kids Money Manager",
+  "description": "A colorful, mobile-first allowance manager for kids. Features percentage-based wallet distribution (Spend, Save, Give), visual reports, and an AI-powered financial buddy named Smart Piggy.",
+  "requestFramePermissions": []
+}
